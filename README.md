@@ -1,12 +1,12 @@
 # Marlin4Due Firmware for Archim forked from Ultimachine
 
 ### Modified for Archim (Experimental)
-This firmware is an experimental fork of Marlin4Due with the necessary modifications to run UltiMachine's new AMBIT 3d controller. 
+This firmware is an experimental fork of Marlin4Due with the necessary modifications to run UltiMachine's new Archim 3d controller.  This fork is configured to be used on the Roaddog Labs Bart Po XL http://roaddoglabs.io/wiki/Roaddog_Labs_Bart_Pro_XL . 
 
 ### Instructions
  Details are at http://roaddoglabs.io/wiki/Archim
 
-#### Original Ambit/Archim [README.md](/Documentaion/orig_ambit_README.md)in Documentation folder 
+#### Original Ambit/Archim [README.md](/Documentaion/orig_ambit_README.md) in Documentation folder 
 
 
 ## Credits
